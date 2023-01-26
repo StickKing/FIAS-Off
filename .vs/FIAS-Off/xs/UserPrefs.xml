@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{5D559335-0313-4CE8-8246-394A5A7883BD}|Default" BuildWithMSBuildOnMono="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FIAS-Off/FIAS-Off/pages/MenuItemPage/DBWorking2.cs">
+    <Files>
+      <File FileName="FIAS-Off/FIAS-Off/pages/MenuItemPage/DBWorking2.cs" Line="355" Column="18" />
+      <File FileName="FIAS-Off/FIAS-Off/page_func/f_SQL.cs" />
+      <File FileName="FIAS-Off/FIAS-Off/pages/MenuItemPage/FastSearch.cs" />
+      <File FileName="FIAS-Off/FIAS-Off/pages/MenuPage.cs" />
+      <File FileName="FIAS-Off/FIAS-Off.Android/MainActivity.cs" />
+      <File FileName="FIAS-Off/FIAS-Off/page_func/f_Start_page.cs" />
+      <File FileName="FIAS-Off/FIAS-Off/page_func/f_DBWorking_page.cs" />
+      <File FileName="FIAS-Off/FIAS-Off/pages/MenuItemPage/Favourite.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FIAS-Off" expanded="True">
+            <Node name="FIAS_Off.Android" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="FIAS-Off" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="page_func" expanded="True" />
+              <Node name="pages" expanded="True">
+                <Node name="MenuItemPage" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_2_API_33" />
+  <MonoDevelop.Ide.ItemProperties.FIAS__Off.Android Xamarin.HotReload.DebuggerTimeoutException.FIAS__Off.Android.HideInfoBar="True" Xamarin.HotReload.GenericExceptionInfoBar.FIAS-Off.Android.HideInfoBar="True" PreferredExecutionTarget="Android.Pixel_2_API_33" AndroidDesignerPreferredTheme="MainTheme" Xamarin.HotReload.DebuggerTimeoutException.FIAS-Off.Android.HideInfoBar="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/anton/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/mono/mono/a96bde9730e4c2244536ce5f4250e5e4f4e6780a</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <AuthorInfo Name="Anton Panteleev" Email="mainsample@yandex.ru" Copyright="" Company="PNTLV" Trademark="" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
